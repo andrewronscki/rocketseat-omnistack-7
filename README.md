@@ -1,11 +1,13 @@
 # Semana OmniStack
 
-[Projeto](https://rocketseat.com.br/week-7/aulas)
+[Projeto](https://rocketseat.com.br/)
 
 ## Tecnologias utilizadas: 
 - JavaScript
 - Express
+- Node.js
 - React
+- React Native
 
 **Editar o arquivo .env, configurando as variáveis da aplicação.**
 
