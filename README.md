@@ -1,6 +1,6 @@
 # Semana OmniStack
 
-[Projeto](https://rocketseat.com.br/)
+Projeto criado com base no evento Omnistack da [Rocketseat](https://rocketseat.com.br/) 
 
 ## Tecnologias utilizadas: 
 - JavaScript
