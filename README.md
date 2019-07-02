@@ -8,6 +8,9 @@ Projeto criado com base no evento Omnistack da [Rocketseat](https://rocketseat.c
 - Node.js
 - React
 - React Native
+- Axios
+- Padronização de projeto com ESLint (Padrão Airbnb)
+- Banco NoSql (MongoDB)
 
 **Editar o arquivo .env, configurando as variáveis da aplicação.**
 
